@@ -7,17 +7,17 @@ import java.time.LocalDate;
  */
 
 class Employee {
-    private String name;
+    private String name;   //  数据标记为private，确保只有Employee类自身的方法能够访问这些实例域
     private double salary;
     private LocalDate hireDay;
 
-    public Employee(String n, double s, int year, int month, int day) {
-        name = n;
+    public Employee(String n, double s, int year, int month, int day) {   // Employee类的构造器，构造器总是伴随着new操作符的执行被调用，不能对一个已经存在的对象调用构造器，来达到重新设置实例域的目的
+        name = n;                  // 不要在构造器中定义与实例域重名的局部变量
         salary = s;
         hireDay = LocalDate.of(year,month,day);
     }
 
-    public String getName() {
+    public String getName() {    // 只返回实例域值，又称为域访问器
         return name;
     }
 
@@ -29,8 +29,8 @@ class Employee {
         return hireDay;
     }
 
-    public void raiseSalary(double byPercent) {
-        double raise = salary * byPercent / 100;
+    public void raiseSalary(double byPercent) {    // 方法用于操作对象以及存取它们的实例域
+        double raise = salary * byPercent / 100;     // byPercent为显示参数，隐式参数为方法名前的Employee对象，用关键字this表示
         salary += raise;
     }
 }
@@ -53,6 +53,5 @@ public class EmployeeTest {
                     + ", salary : " + e.getSalary()
                     + ", hireDay : " + e.getHireDay());
         }
-
     }
 }
