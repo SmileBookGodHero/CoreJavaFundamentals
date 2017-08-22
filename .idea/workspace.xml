@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="38cefd4f-bb92-44bc-9be3-6b162b904a0b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/lilei1998/inheritance/ManagerTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/lilei1998/inheritance/abstractClasses/Employee.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/lilei1998/inheritance/abstractClasses/Person.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/lilei1998/inheritance/abstractClasses/PersonTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/lilei1998/inheritance/abstractClasses/Student.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/bin/" />
@@ -43,7 +46,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ManagerTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ManagerTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/lilei1998/inheritance/ManagerTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="900">
@@ -57,6 +60,60 @@
                 <element signature="e#602#603#0" expanded="true" />
                 <element signature="e#1122#1123#0" expanded="true" />
                 <element signature="e#1156#1157#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PersonTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/lilei1998/inheritance/abstractClasses/PersonTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="68" lean-forward="true" selection-start-line="12" selection-start-column="68" selection-end-line="12" selection-end-column="68" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Person.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/lilei1998/inheritance/abstractClasses/Person.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="41" lean-forward="false" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="41" />
+              <folding>
+                <element signature="e#249#250#0" expanded="true" />
+                <element signature="e#281#282#0" expanded="true" />
+                <element signature="e#312#313#0" expanded="true" />
+                <element signature="e#339#340#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Employee.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/lilei1998/inheritance/abstractClasses/Employee.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="295">
+              <caret line="26" column="36" lean-forward="true" selection-start-line="26" selection-start-column="36" selection-end-line="26" selection-end-column="36" />
+              <folding>
+                <element signature="e#462#463#0" expanded="true" />
+                <element signature="e#491#492#0" expanded="true" />
+                <element signature="e#528#529#0" expanded="true" />
+                <element signature="e#558#559#0" expanded="true" />
+                <element signature="e#678#679#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Student.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/lilei1998/inheritance/abstractClasses/Student.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="48" lean-forward="false" selection-start-line="15" selection-start-column="48" selection-end-line="15" selection-end-column="48" />
+              <folding>
+                <element signature="e#321#322#0" expanded="true" />
+                <element signature="e#376#377#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -95,6 +152,10 @@
         <option value="$PROJECT_DIR$/src/com/lilei1998/oop/ConstructorTest.java" />
         <option value="$PROJECT_DIR$/src/com/lilei1998/oop/PackageTest.java" />
         <option value="$PROJECT_DIR$/src/com/lilei1998/inheritance/ManagerTest.java" />
+        <option value="$PROJECT_DIR$/src/com/lilei1998/inheritance/abstractClasses/Person.java" />
+        <option value="$PROJECT_DIR$/src/com/lilei1998/inheritance/abstractClasses/Employee.java" />
+        <option value="$PROJECT_DIR$/src/com/lilei1998/inheritance/abstractClasses/Student.java" />
+        <option value="$PROJECT_DIR$/src/com/lilei1998/inheritance/abstractClasses/PersonTest.java" />
       </list>
     </option>
   </component>
@@ -155,6 +216,14 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="lilei1998" type="462c0819:PsiDirectoryNode" />
               <item name="inheritance" type="462c0819:PsiDirectoryNode" />
+              <item name="abstractClasses" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CoreJavaFundamentals" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CoreJavaFundamentals" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="lilei1998" type="462c0819:PsiDirectoryNode" />
+              <item name="inheritance" type="462c0819:PsiDirectoryNode" />
               <item name="ManagerTest.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
           </expand>
@@ -189,7 +258,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ManagerTest">
+  <component name="RunManager" selected="Application.PersonTest">
     <configuration name="ConstructorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -266,14 +335,14 @@
       <module name="CoreJavaFundamentals" />
       <envs />
     </configuration>
-    <configuration name="StaticTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="PersonTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.lilei1998.oop.*" />
+          <option name="PATTERN" value="com.lilei1998.inheritance.abstractClasses.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.lilei1998.oop.StaticTest" />
+      <option name="MAIN_CLASS_NAME" value="com.lilei1998.inheritance.abstractClasses.PersonTest" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -366,19 +435,19 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.StaticTest" />
-      <item index="1" class="java.lang.String" itemvalue="Application.FactoryTest" />
-      <item index="2" class="java.lang.String" itemvalue="Application.ParamTest" />
-      <item index="3" class="java.lang.String" itemvalue="Application.ConstructorTest" />
-      <item index="4" class="java.lang.String" itemvalue="Application.ManagerTest" />
+      <item index="0" class="java.lang.String" itemvalue="Application.FactoryTest" />
+      <item index="1" class="java.lang.String" itemvalue="Application.ParamTest" />
+      <item index="2" class="java.lang.String" itemvalue="Application.ConstructorTest" />
+      <item index="3" class="java.lang.String" itemvalue="Application.ManagerTest" />
+      <item index="4" class="java.lang.String" itemvalue="Application.PersonTest" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.ManagerTest" />
-        <item index="1" class="java.lang.String" itemvalue="Application.ConstructorTest" />
-        <item index="2" class="java.lang.String" itemvalue="Application.ParamTest" />
-        <item index="3" class="java.lang.String" itemvalue="Application.FactoryTest" />
-        <item index="4" class="java.lang.String" itemvalue="Application.StaticTest" />
+        <item index="0" class="java.lang.String" itemvalue="Application.PersonTest" />
+        <item index="1" class="java.lang.String" itemvalue="Application.ManagerTest" />
+        <item index="2" class="java.lang.String" itemvalue="Application.ConstructorTest" />
+        <item index="3" class="java.lang.String" itemvalue="Application.ParamTest" />
+        <item index="4" class="java.lang.String" itemvalue="Application.FactoryTest" />
       </list>
     </recent_temporary>
   </component>
@@ -397,7 +466,7 @@
       <updated>1502331164273</updated>
       <workItem from="1502331168312" duration="16933000" />
       <workItem from="1502699986416" duration="1155000" />
-      <workItem from="1503302297346" duration="6479000" />
+      <workItem from="1503302297346" duration="8292000" />
     </task>
     <task id="LOCAL-00001" summary="文件修改">
       <created>1502331298073</created>
@@ -473,10 +542,11 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24567000" />
+    <option name="totallyTimeSpent" value="26380000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -491,7 +561,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -855,6 +925,52 @@
             <element signature="e#602#603#0" expanded="true" />
             <element signature="e#1122#1123#0" expanded="true" />
             <element signature="e#1156#1157#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lilei1998/inheritance/abstractClasses/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="41" lean-forward="false" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="41" />
+          <folding>
+            <element signature="e#249#250#0" expanded="true" />
+            <element signature="e#281#282#0" expanded="true" />
+            <element signature="e#312#313#0" expanded="true" />
+            <element signature="e#339#340#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lilei1998/inheritance/abstractClasses/PersonTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="68" lean-forward="true" selection-start-line="12" selection-start-column="68" selection-end-line="12" selection-end-column="68" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lilei1998/inheritance/abstractClasses/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="48" lean-forward="false" selection-start-line="15" selection-start-column="48" selection-end-line="15" selection-end-column="48" />
+          <folding>
+            <element signature="e#321#322#0" expanded="true" />
+            <element signature="e#376#377#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lilei1998/inheritance/abstractClasses/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="26" column="36" lean-forward="true" selection-start-line="26" selection-start-column="36" selection-end-line="26" selection-end-column="36" />
+          <folding>
+            <element signature="e#462#463#0" expanded="true" />
+            <element signature="e#491#492#0" expanded="true" />
+            <element signature="e#528#529#0" expanded="true" />
+            <element signature="e#558#559#0" expanded="true" />
+            <element signature="e#678#679#0" expanded="true" />
           </folding>
         </state>
       </provider>
