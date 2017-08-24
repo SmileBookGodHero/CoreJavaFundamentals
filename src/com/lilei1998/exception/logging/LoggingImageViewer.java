@@ -20,7 +20,7 @@ public class LoggingImageViewer {
             try {
                 Logger.getLogger("com.lilei1998.exception").setLevel(Level.ALL);
                 final int LOG_ROTATION_COUNT = 10;
-                Handler handler = new FileHandler("%h/LoggingImageViewer.log", 0, LOG_ROTATION_COUNT);
+                Handler handler = new FileHandler("%h/GitHub/LoggingImageViewer.log", 0, LOG_ROTATION_COUNT);
                 Logger.getLogger("com.lilei1998.excetipn").addHandler(handler);
             } catch (IOException e) {
                 Logger.getLogger("com.lilei1998.exception").log(Level.SEVERE, "Can't create log file handler", e);
