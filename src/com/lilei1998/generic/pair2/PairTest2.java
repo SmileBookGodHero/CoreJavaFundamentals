@@ -24,6 +24,7 @@ public class PairTest2 {
 }
 
 class ArrayAlg {
+    @SuppressWarnings("unchecked")
     public static <T extends Comparable> Pair<T> minmax(T[] a) {
         if (a == null || a.length == 0) {
             return null;
