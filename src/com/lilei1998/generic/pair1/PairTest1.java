@@ -22,8 +22,8 @@ class ArrayAlg {
         String min = a[0];
         String max = a[0];
         for (int i = 1; i < a.length; i++) {
-            if (min.compareTo(a[i]) > 0) {
-                min = a[i];
+            if (min.compareTo(a[i]) > 0) {   // compareTo() 方法比较两个字符串，如果字符串相同则返回0；
+                min = a[i];                  // 按字典顺序，第一个字符串比第二个靠前，返回负值，否则，返回正值
             }
             if (max.compareTo(a[i]) < 0) {
                 max = a[i];
