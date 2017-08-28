@@ -5,6 +5,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/lilei1998/generic/pair1/Pair.java" afterPath="$PROJECT_DIR$/src/com/lilei1998/generic/pair1/Pair.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/lilei1998/generic/pair1/PairTest1.java" afterPath="$PROJECT_DIR$/src/com/lilei1998/generic/pair1/PairTest1.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/lilei1998/generic/pair2/PairTest2.java" afterPath="$PROJECT_DIR$/src/com/lilei1998/generic/pair2/PairTest2.java" />
     </list>
     <ignored path="$PROJECT_DIR$/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,21 +20,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="PairTest1.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="PairTest1.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/lilei1998/generic/pair1/PairTest1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="385">
-              <caret line="31" column="36" lean-forward="true" selection-start-line="31" selection-start-column="36" selection-end-line="31" selection-end-column="36" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="String.java" pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/lang/String.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="16500">
-              <caret line="1157" column="33" lean-forward="false" selection-start-line="1157" selection-start-column="20" selection-end-line="1157" selection-end-column="33" />
+            <state relative-caret-position="255">
+              <caret line="17" column="67" lean-forward="false" selection-start-line="17" selection-start-column="67" selection-end-line="17" selection-end-column="67" />
               <folding />
             </state>
           </provider>
@@ -42,8 +33,8 @@
       <file leaf-file-name="Pair.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/lilei1998/generic/pair1/Pair.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
-              <caret line="8" column="52" lean-forward="true" selection-start-line="8" selection-start-column="52" selection-end-line="8" selection-end-column="52" />
+            <state relative-caret-position="60">
+              <caret line="4" column="23" lean-forward="true" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -68,14 +59,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PairTest2.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="PairTest2.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/lilei1998/generic/pair2/PairTest2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
-              <caret line="33" column="44" lean-forward="false" selection-start-line="33" selection-start-column="44" selection-end-line="33" selection-end-column="44" />
+            <state relative-caret-position="280">
+              <caret line="34" column="25" lean-forward="false" selection-start-line="34" selection-start-column="25" selection-end-line="34" selection-end-column="25" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Comparable.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/lang/Comparable.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="400">
+              <caret line="135" column="21" lean-forward="false" selection-start-line="135" selection-start-column="21" selection-end-line="135" selection-end-column="21" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -193,12 +194,12 @@
         <option value="$PROJECT_DIR$/src/com/lilei1998/exception/stackTrace/StackTraceTest.java" />
         <option value="$PROJECT_DIR$/src/com/lilei1998/exception/logging/LoggingImageViewer.java" />
         <option value="$PROJECT_DIR$/src/com/lilei1998/generic/generic/GenericTest.java" />
-        <option value="$PROJECT_DIR$/src/com/lilei1998/generic/pair2/PairTest2.java" />
         <option value="$PROJECT_DIR$/src/com/lilei1998/generic/pair3/Pair.java" />
         <option value="$PROJECT_DIR$/src/com/lilei1998/inheritance/equals/Manager.java" />
         <option value="$PROJECT_DIR$/src/com/lilei1998/generic/pair3/PairTest3.java" />
         <option value="$PROJECT_DIR$/src/com/lilei1998/generic/pair1/Pair.java" />
         <option value="$PROJECT_DIR$/src/com/lilei1998/generic/pair1/PairTest1.java" />
+        <option value="$PROJECT_DIR$/src/com/lilei1998/generic/pair2/PairTest2.java" />
       </list>
     </option>
   </component>
@@ -272,6 +273,23 @@
               <item name="pair1" type="462c0819:PsiDirectoryNode" />
               <item name="PairTest1.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
+            <path>
+              <item name="CoreJavaFundamentals" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CoreJavaFundamentals" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="lilei1998" type="462c0819:PsiDirectoryNode" />
+              <item name="generic" type="462c0819:PsiDirectoryNode" />
+              <item name="pair2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CoreJavaFundamentals" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CoreJavaFundamentals" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="lilei1998" type="462c0819:PsiDirectoryNode" />
+              <item name="generic" type="462c0819:PsiDirectoryNode" />
+              <item name="pair2" type="462c0819:PsiDirectoryNode" />
+              <item name="PairTest2.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -306,7 +324,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PairTest1">
+  <component name="RunManager" selected="Application.PairTest2">
     <configuration name="GenericTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -491,9 +509,9 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.PairTest1" />
-        <item index="1" class="java.lang.String" itemvalue="Application.PairTest3" />
-        <item index="2" class="java.lang.String" itemvalue="Application.PairTest2" />
+        <item index="0" class="java.lang.String" itemvalue="Application.PairTest2" />
+        <item index="1" class="java.lang.String" itemvalue="Application.PairTest1" />
+        <item index="2" class="java.lang.String" itemvalue="Application.PairTest3" />
         <item index="3" class="java.lang.String" itemvalue="Application.GenericTest" />
         <item index="4" class="java.lang.String" itemvalue="Application.LoggingImageViewer" />
       </list>
@@ -515,7 +533,7 @@
       <workItem from="1502331168312" duration="16933000" />
       <workItem from="1502699986416" duration="1155000" />
       <workItem from="1503302297346" duration="48725000" />
-      <workItem from="1503902141659" duration="1675000" />
+      <workItem from="1503902141659" duration="4429000" />
     </task>
     <task id="LOCAL-00001" summary="文件修改">
       <created>1502331298073</created>
@@ -615,11 +633,18 @@
       <option name="project" value="LOCAL" />
       <updated>1503642509522</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="泛型示例更改">
+      <created>1503904447896</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1503904447896</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="68488000" />
+    <option name="totallyTimeSpent" value="71242000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -683,16 +708,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/lilei1998/environment/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/lilei1998/summary/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -885,6 +900,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="495">
           <caret line="33" column="42" lean-forward="true" selection-start-line="33" selection-start-column="42" selection-end-line="33" selection-end-column="42" />
+          <folding>
+            <element signature="e#333#334#0" expanded="false" />
+            <element signature="e#360#361#0" expanded="false" />
+            <element signature="e#393#394#0" expanded="false" />
+            <element signature="e#422#423#0" expanded="false" />
+            <element signature="e#779#780#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1018,16 +1040,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/lilei1998/generic/pair2/PairTest2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="33" column="44" lean-forward="false" selection-start-line="33" selection-start-column="44" selection-end-line="33" selection-end-column="44" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/lilei1998/inheritance/equals/Manager.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
@@ -1083,17 +1095,35 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/lilei1998/generic/pair1/Pair.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="8" column="52" lean-forward="true" selection-start-line="8" selection-start-column="52" selection-end-line="8" selection-end-column="52" />
+        <state relative-caret-position="60">
+          <caret line="4" column="23" lean-forward="true" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/lilei1998/generic/pair1/PairTest1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="385">
-          <caret line="31" column="36" lean-forward="true" selection-start-line="31" selection-start-column="36" selection-end-line="31" selection-end-column="36" />
+        <state relative-caret-position="255">
+          <caret line="17" column="67" lean-forward="false" selection-start-line="17" selection-start-column="67" selection-end-line="17" selection-end-column="67" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/lang/Comparable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="135" column="21" lean-forward="false" selection-start-line="135" selection-start-column="21" selection-end-line="135" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lilei1998/generic/pair2/PairTest2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="34" column="25" lean-forward="false" selection-start-line="34" selection-start-column="25" selection-end-line="34" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

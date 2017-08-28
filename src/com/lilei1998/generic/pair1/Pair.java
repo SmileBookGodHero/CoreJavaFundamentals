@@ -2,7 +2,7 @@ package com.lilei1998.generic.pair1;
 
 /**
  * Created by lilei on 2017/8/25 上午10:14.
- * 泛型类：只关注泛型，不为数据存储的细节烦恼
+ * 泛型类：只关注泛型，不关注数据存储的细节
  */
 
 public class Pair<T> {  //  引入类型变量 T

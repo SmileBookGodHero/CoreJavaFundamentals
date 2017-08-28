@@ -15,7 +15,7 @@ public class PairTest1 {
 }
 
 class ArrayAlg {
-    public static Pair<String> minmax(String[] a) {
+    public static Pair<String> minmax(String[] a) {  // 在普通类中定义泛型方法
         if (a == null || a.length == 0) {
             return null;
         }

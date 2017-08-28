@@ -25,7 +25,7 @@ public class PairTest2 {
 
 class ArrayAlg {
     @SuppressWarnings("unchecked")
-    public static <T extends Comparable> Pair<T> minmax(T[] a) {
+    public static <T extends Comparable> Pair<T> minmax(T[] a) {   // 对类型变量设置限定，使用 compareTo() 方法   导入 Pair 类
         if (a == null || a.length == 0) {
             return null;
         }
