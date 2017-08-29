@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="38cefd4f-bb92-44bc-9be3-6b162b904a0b" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/lilei1998/generic/pair1/Pair.java" afterPath="$PROJECT_DIR$/src/com/lilei1998/generic/pair1/Pair.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/lilei1998/generic/pair1/PairTest1.java" afterPath="$PROJECT_DIR$/src/com/lilei1998/generic/pair1/PairTest1.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/lilei1998/generic/pair2/PairTest2.java" afterPath="$PROJECT_DIR$/src/com/lilei1998/generic/pair2/PairTest2.java" />
     </list>
     <ignored path="$PROJECT_DIR$/bin/" />
@@ -62,21 +59,12 @@
       <file leaf-file-name="PairTest2.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/lilei1998/generic/pair2/PairTest2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="34" column="25" lean-forward="false" selection-start-line="34" selection-start-column="25" selection-end-line="34" selection-end-column="25" />
+            <state relative-caret-position="446">
+              <caret line="60" column="9" lean-forward="false" selection-start-line="60" selection-start-column="9" selection-end-line="60" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#716#746#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Comparable.java" pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/lang/Comparable.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="135" column="21" lean-forward="false" selection-start-line="135" selection-start-column="21" selection-end-line="135" selection-end-column="21" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -533,7 +521,7 @@
       <workItem from="1502331168312" duration="16933000" />
       <workItem from="1502699986416" duration="1155000" />
       <workItem from="1503302297346" duration="48725000" />
-      <workItem from="1503902141659" duration="4429000" />
+      <workItem from="1503902141659" duration="10078000" />
     </task>
     <task id="LOCAL-00001" summary="文件修改">
       <created>1502331298073</created>
@@ -644,7 +632,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="71242000" />
+    <option name="totallyTimeSpent" value="76891000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -1111,18 +1099,19 @@
     </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/lang/Comparable.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="135" column="21" lean-forward="false" selection-start-line="135" selection-start-column="21" selection-end-line="135" selection-end-column="21" />
+        <state relative-caret-position="340">
+          <caret line="131" column="25" lean-forward="false" selection-start-line="131" selection-start-column="25" selection-end-line="131" selection-end-column="25" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/lilei1998/generic/pair2/PairTest2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="34" column="25" lean-forward="false" selection-start-line="34" selection-start-column="25" selection-end-line="34" selection-end-column="25" />
+        <state relative-caret-position="446">
+          <caret line="60" column="9" lean-forward="false" selection-start-line="60" selection-start-column="9" selection-end-line="60" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#716#746#0" expanded="true" />
           </folding>
         </state>
       </provider>
