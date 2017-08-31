@@ -487,7 +487,7 @@
       <workItem from="1502699986416" duration="1155000" />
       <workItem from="1503302297346" duration="48725000" />
       <workItem from="1503902141659" duration="11856000" />
-      <workItem from="1504086518561" duration="44000" />
+      <workItem from="1504086518561" duration="89000" />
     </task>
     <task id="LOCAL-00001" summary="文件修改">
       <created>1502331298073</created>
@@ -594,11 +594,18 @@
       <option name="project" value="LOCAL" />
       <updated>1503904447896</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="修改配置文件">
+      <created>1504086582674</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1504086582674</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="78713000" />
+    <option name="totallyTimeSpent" value="78758000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -662,7 +669,8 @@
     <MESSAGE value="文件目录修改" />
     <MESSAGE value="泛型示例" />
     <MESSAGE value="泛型示例更改" />
-    <option name="LAST_COMMIT_MESSAGE" value="泛型示例更改" />
+    <MESSAGE value="修改配置文件" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改配置文件" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
