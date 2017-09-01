@@ -20,7 +20,6 @@ public class InputTest {
 //        Console console = System.console();
 //        String userName = console.readLine("User name: ");
 //        char[] password = console.readPassword("Password: ");
-//
 //        System.out.println("User name: " + userName + " Password: " + password);
     }
 }
