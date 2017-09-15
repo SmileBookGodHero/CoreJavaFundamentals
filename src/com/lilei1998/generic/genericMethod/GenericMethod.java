@@ -9,7 +9,7 @@ public class GenericMethod {
     }
 
     public static void main(String[] args) {
-        out("findingsea");
+        out("finding sea");
         out(123);
         out(11.11);
         out(true);
